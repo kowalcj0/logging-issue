@@ -1,0 +1,4 @@
+[behave]
+junit=True
+junit_directory=./reports/
+verbose=True

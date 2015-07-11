@@ -1,0 +1,7 @@
+# Functional tests
+behave==1.2.5
+PyGreSQL==4.1.1
+ipython==3.2.0
+stripe==1.23.0
+pytest==2.7.2
+ipdb==0.8
